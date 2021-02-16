@@ -3,8 +3,15 @@ import pygame,sys,random
 """
 sys-> it will give the acess of system module.
 """
+"""
+Crated a Flappy bird using python....TA
+
+"""
+
+
 
 # for floor animination
+
 
 
 def draw_floor():
